@@ -35,3 +35,8 @@ Express试图系统从3.x之后不支持partial了,可以通过ejs模版include�
 `var crypt = require('crypto');`//不能命名成crypto,因为已经被webkit占用
 
 写了两个星期的DEMO,现在才来写一些坑的总结,好多不记得了,有机会再写吧,头疼!
+
+
+Node.js常见问题寻找[这里](http://www.muzidx.com/code/0317.html)
+
+
